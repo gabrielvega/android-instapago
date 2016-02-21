@@ -1,6 +1,4 @@
 # android-instapago
-
-# android-instapago
 Librería para Android que se conecta con API de Instapago
 
 Llave pública:
