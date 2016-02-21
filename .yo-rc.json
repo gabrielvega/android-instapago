@@ -1,0 +1,6 @@
+{
+  "generator-android-library": {
+    "appPackage": "com.gaveho.library",
+    "appName": "android-instapago"
+  }
+}
